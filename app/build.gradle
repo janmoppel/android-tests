@@ -9,7 +9,7 @@ android {
         applicationId "com.greenhouseci.androidtests"
         minSdkVersion 21
         targetSdkVersion 27
-        versionCode 2
+        versionCode 7
 
         def myVersionString
         if (System.getenv()["CI"]) {
@@ -17,7 +17,7 @@ android {
             def today = new Date()
             myVersionString = plainFormatter.format(today)
         } else {
-            myVersionString = "2.0"
+            myVersionString = "7.0"
         }
         versionName myVersionString
 
