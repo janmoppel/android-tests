@@ -1,4 +1,4 @@
-package com.greenhouseci.androidtests;
+package com.greenhouseci.androidtests1;
 
 /**
  * Created by priit on 20.09.16.
