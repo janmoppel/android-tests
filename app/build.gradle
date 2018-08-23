@@ -1,6 +1,6 @@
 import java.text.DateFormat
 
-apply plugin: 'com.android.application'
+apply plugin: 'com.android.application1'
 
 android {
     compileSdkVersion 27
