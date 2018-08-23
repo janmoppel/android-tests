@@ -1,4 +1,4 @@
-package com.greenhouseci.androidtests;
+package com.greenhouseci.androidtests1;
 
 import android.content.Context;
 import android.view.LayoutInflater;
