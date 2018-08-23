@@ -9,7 +9,7 @@ android {
         applicationId "com.greenhouseci.androidtests1"
         minSdkVersion 21
         targetSdkVersion 27
-        versionCode 14
+        versionCode 15
 
         def myVersionString
         if (System.getenv()["CI"]) {
