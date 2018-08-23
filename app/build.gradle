@@ -17,7 +17,7 @@ android {
             def today = new Date()
             myVersionString = plainFormatter.format(today)
         } else {
-            myVersionString = "8.0"
+            myVersionString = "9.0"
         }
         versionName myVersionString
 
