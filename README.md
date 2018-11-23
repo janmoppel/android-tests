@@ -1,3 +1,3 @@
 # android-tests
 
-Update
+Update readme
